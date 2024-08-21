@@ -1,0 +1,223 @@
+{
+  "dgc_2024": {
+    "group": {
+      "Top": [
+        {
+          "title": "Device Status",
+          "key": "Generator On",
+          "displayName": "Genset Status",
+          "type": "blink",
+          "value": false
+        },
+        {
+          "title": "Faults",
+          "key": "Faults",
+          "displayName": "Faults",
+          "type": "blink",
+          "value": true
+        },
+        {
+          "title": "Device Status",
+          "key": "Modbus Connection",
+          "displayName": "Modbus Conn.",
+          "type": "blink",
+          "value": false
+        },
+        {
+          "title": "Sensors",
+          "key": "Battery Voltage",
+          "displayName": "Battery Voltage",
+          "type": "string",
+          "value": "0.00",
+          "unit": "V"
+        }
+      ],
+      "Engine Parameters": [
+        {
+          "title": "Sensors",
+          "key": "Oil Pressure",
+          "displayName": "Oil Pressure Sensor",
+          "type": "string",
+          "value": "0.0",
+          "unit": "bar"
+        },
+        {
+          "title": "Sensors",
+          "key": "Fuel",
+          "displayName": "Fuel Sensor",
+          "type": "string",
+          "value": "0",
+          "unit": "%"
+        },
+        {
+          "title": "Sensors",
+          "key": "Oil Temperature",
+          "displayName": "Oil Temperature Sensor",
+          "type": "string",
+          "value": "0",
+          "unit": "°C"
+        },
+        {
+          "title": "Device Status",
+          "key": "Generator RPM",
+          "displayName": "Generator RPM",
+          "type": "string",
+          "value": "0"
+        }
+      ]
+    },
+    "titles": {
+      "Device Status": "",
+      "Sensors": "",
+      "Faults": ""
+    }
+  },
+
+  "econ_t": {
+    "group": {
+      "Top": [
+        {
+          "title": "Device Status",
+          "key": "Generator On",
+          "displayName": "Genset Status",
+          "type": "blink",
+          "value": false
+        },
+        {
+          "title": "Faults",
+          "key": "Faults",
+          "displayName": "Faults",
+          "type": "blink",
+          "value": true
+        },
+        {
+          "title": "Device Status",
+          "key": "Modbus Connection",
+          "displayName": "Modbus Conn.",
+          "type": "blink",
+          "value": false
+        },
+        {
+          "title": "Sensors",
+          "key": "Battery Voltage",
+          "displayName": "Battery Voltage",
+          "type": "string",
+          "value": "0.00",
+          "unit": "V"
+        }
+      ],
+      "Engine Parameters": [
+        {
+          "title": "Sensors",
+          "key": "Oil Pressure",
+          "displayName": "Oil Pressure Sensor",
+          "type": "string",
+          "value": "0.0",
+          "unit": "bar"
+        },
+        {
+          "title": "Sensors",
+          "key": "Fuel",
+          "displayName": "Fuel Sensor",
+          "type": "string",
+          "value": "0",
+          "unit": "%"
+        },
+        {
+          "title": "Sensors",
+          "key": "Oil Temperature",
+          "displayName": "Oil Temperature Sensor",
+          "type": "string",
+          "value": "0",
+          "unit": "°C"
+        },
+        {
+          "title": "Device Status",
+          "key": "Generator RPM",
+          "displayName": "Generator RPM",
+          "type": "string",
+          "value": "0"
+        }
+      ]
+    },
+    "titles": {
+      "Device Status": "",
+      "Sensors": "",
+      "Faults": ""
+    }
+  },
+
+  "econ_man_indus": {
+    "group": {
+      "Top": [
+        {
+          "title": "Device Status",
+          "key": "DG Running",
+          "displayName": "DG Running",
+          "type": "blink",
+          "value": false
+        },
+        {
+          "title": "Faults",
+          "key": "Faults",
+          "displayName": "Faults",
+          "type": "blink",
+          "value": true
+        },
+        {
+          "title": "Device Status",
+          "key": "Modbus Connection",
+          "displayName": "Modbus Conn.",
+          "type": "blink",
+          "value": false
+        },
+        {
+          "title": "Sensors",
+          "key": "Battery Voltage",
+          "displayName": "Battery Voltage",
+          "type": "string",
+          "value": "0.00",
+          "unit": "V"
+        }
+      ],
+      "Engine Parameters": [
+        {
+          "title": "Sensors",
+          "key": "Oil Pressure",
+          "displayName": "Oil Pressure Sensor",
+          "type": "string",
+          "value": "0.0",
+          "unit": "bar"
+        },
+        {
+          "title": "Sensors",
+          "key": "Fuel",
+          "displayName": "Fuel Sensor",
+          "type": "string",
+          "value": "0",
+          "unit": "%"
+        },
+        {
+          "title": "Sensors",
+          "key": "Oil Temperature",
+          "displayName": "Oil Temperature Sensor",
+          "type": "string",
+          "value": "0",
+          "unit": "°C"
+        },
+        {
+          "title": "Device Status",
+          "key": "Generator RPM",
+          "displayName": "Generator RPM",
+          "type": "string",
+          "value": "0"
+        }
+      ]
+    },
+    "titles": {
+      "Device Status": "",
+      "Sensors": "",
+      "Faults": ""
+    }
+  }
+}
